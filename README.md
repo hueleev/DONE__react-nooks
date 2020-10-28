@@ -10,7 +10,7 @@ Collection of React Hooks ready to install with NPM
 +  [✌] usePreventLeave
 +  [✌] useBeforeLeave
 +  [✌] useFadeIn
-+  [] useFullscreen
++  [✌] useFullscreen
 +  [✌] useHover
 +  [✌] useNetwork
 +  [✌] useNotification
