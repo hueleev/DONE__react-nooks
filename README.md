@@ -22,7 +22,7 @@ Collection of React Hooks ready to install with NPM
 npm init
 ```
 > add dependency
-> _Dependencies -> peerDependencies 로 수정 (패키지 존재하면 설치 X)_
+Dependencies -> peerDependencies 로 수정 (패키지 존재하면 설치 X)
 ```
 npm login
 npm publish --access public
